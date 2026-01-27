@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Lịch sinh hoạt hằng tuần</h1>
+    <table border="1">
+        <tr>
+            <th></th>
+            <th>Thứ Hai</th>
+            <th>Thứ Ba</
+        </tr>
+    </table>
+</body>
+</html>
